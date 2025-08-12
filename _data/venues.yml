@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"PLDI 2025":
+  url: https://pldi2025.sigplan.org/
+  color: "#ff7f0e"
