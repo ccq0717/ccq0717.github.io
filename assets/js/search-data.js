@@ -47,10 +47,17 @@ ninja.data = [{
         },
       },{
         id: 'social-github',
-        title: 'Github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://github.com/ccq0717", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0006-0696-6975", "_blank");
         },
       },{
       id: 'light-theme',
